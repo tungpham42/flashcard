@@ -1,0 +1,752 @@
+[
+  {
+    "word": "Apple",
+    "definition": "A fruit that is red or green.",
+    "example": "I eat an apple every day.",
+    "pronunciation": "ˈæp.l̩"
+  },
+  {
+    "word": "House",
+    "definition": "A building where people live.",
+    "example": "They bought a new house.",
+    "pronunciation": "haʊs"
+  },
+  {
+    "word": "Sun",
+    "definition": "The star at the center of our solar system.",
+    "example": "The sun is shining brightly.",
+    "pronunciation": "sʌn"
+  },
+  {
+    "word": "Book",
+    "definition": "A set of written, printed, or blank pages fastened together.",
+    "example": "She is reading a book.",
+    "pronunciation": "bʊk"
+  },
+  {
+    "word": "Tree",
+    "definition": "A woody plant with branches.",
+    "example": "The tree gives us shade.",
+    "pronunciation": "triː"
+  },
+  {
+    "word": "Dog",
+    "definition": "A domesticated animal that barks.",
+    "example": "My dog loves to play.",
+    "pronunciation": "dɔːɡ"
+  },
+  {
+    "word": "Chair",
+    "definition": "A piece of furniture for sitting.",
+    "example": "Sit on the chair.",
+    "pronunciation": "tʃɛər"
+  },
+  {
+    "word": "Phone",
+    "definition": "A device for communication.",
+    "example": "I called him on the phone.",
+    "pronunciation": "foʊn"
+  },
+  {
+    "word": "Computer",
+    "definition": "An electronic device for processing data.",
+    "example": "She works on a computer.",
+    "pronunciation": "kəmˈpjuː.tər"
+  },
+  {
+    "word": "Ocean",
+    "definition": "A large body of salt water.",
+    "example": "The ocean waves are high.",
+    "pronunciation": "ˈoʊ.ʃən"
+  },
+  {
+    "word": "School",
+    "definition": "A place where students learn.",
+    "example": "Children go to school every morning.",
+    "pronunciation": "skuːl"
+  },
+  {
+    "word": "Teacher",
+    "definition": "A person who educates students.",
+    "example": "My teacher is kind.",
+    "pronunciation": "ˈtiː.tʃər"
+  },
+  {
+    "word": "Table",
+    "definition": "A piece of furniture with a flat top.",
+    "example": "Put the books on the table.",
+    "pronunciation": "ˈteɪ.bəl"
+  },
+  {
+    "word": "Clock",
+    "definition": "A device for telling time.",
+    "example": "The clock shows 3 PM.",
+    "pronunciation": "klɒk"
+  },
+  {
+    "word": "Mountain",
+    "definition": "A large landform that rises above the ground.",
+    "example": "They climbed the mountain.",
+    "pronunciation": "ˈmaʊn.tən"
+  },
+  {
+    "word": "River",
+    "definition": "A large stream of water.",
+    "example": "The river flows into the sea.",
+    "pronunciation": "ˈrɪv.ər"
+  },
+  {
+    "word": "Airplane",
+    "definition": "A flying vehicle.",
+    "example": "We traveled by airplane.",
+    "pronunciation": "ˈɛər.pleɪn"
+  },
+  {
+    "word": "Elephant",
+    "definition": "A large animal with a trunk.",
+    "example": "The elephant is the largest land animal.",
+    "pronunciation": "ˈɛl.ɪ.fənt"
+  },
+  {
+    "word": "Guitar",
+    "definition": "A musical instrument with strings.",
+    "example": "He plays the guitar.",
+    "pronunciation": "ɡɪˈtɑːr"
+  },
+  {
+    "word": "Doctor",
+    "definition": "A person who treats sick people.",
+    "example": "The doctor examined the patient.",
+    "pronunciation": "ˈdɒk.tər"
+  },
+  {
+    "word": "Rain",
+    "definition": "Water falling from clouds.",
+    "example": "It is raining outside.",
+    "pronunciation": "reɪn"
+  },
+  {
+    "word": "Moon",
+    "definition": "The natural satellite of the Earth.",
+    "example": "The moon shines at night.",
+    "pronunciation": "muːn"
+  },
+  {
+    "word": "City",
+    "definition": "A large town.",
+    "example": "New York is a big city.",
+    "pronunciation": "ˈsɪt.i"
+  },
+  {
+    "word": "Planet",
+    "definition": "A celestial body orbiting a star.",
+    "example": "Earth is a planet.",
+    "pronunciation": "ˈplæn.ɪt"
+  },
+  {
+    "word": "Star",
+    "definition": "A fixed luminous point in the night sky.",
+    "example": "The star shines brightly.",
+    "pronunciation": "stɑːr"
+  },
+  {
+    "word": "Fire",
+    "definition": "Combustion or burning.",
+    "example": "The fire is hot.",
+    "pronunciation": "faɪər"
+  },
+  {
+    "word": "Police",
+    "definition": "A civil force for maintaining public order.",
+    "example": "The police officer arrested the thief.",
+    "pronunciation": "pəˈliːs"
+  },
+  {
+    "word": "Hospital",
+    "definition": "A place for treating sick people.",
+    "example": "She works at the hospital.",
+    "pronunciation": "ˈhɒs.pɪ.təl"
+  },
+  {
+    "word": "Library",
+    "definition": "A building containing books.",
+    "example": "He borrowed a book from the library.",
+    "pronunciation": "ˈlaɪ.brər.i"
+  },
+  {
+    "word": "Store",
+    "definition": "A place where goods are sold.",
+    "example": "She bought shoes from the store.",
+    "pronunciation": "stɔːr"
+  },
+  {
+    "word": "Park",
+    "definition": "A large public garden.",
+    "example": "They went for a walk in the park.",
+    "pronunciation": "pɑːrk"
+  },
+  {
+    "word": "Zoo",
+    "definition": "A place where animals are kept.",
+    "example": "They visited the zoo.",
+    "pronunciation": "zuː"
+  },
+  {
+    "word": "Beach",
+    "definition": "A pebbly or sandy shore.",
+    "example": "They went to the beach for vacation.",
+    "pronunciation": "biːtʃ"
+  },
+  {
+    "word": "Movie",
+    "definition": "A motion picture.",
+    "example": "They watched a movie at the cinema.",
+    "pronunciation": "ˈmuː.vi"
+  },
+  {
+    "word": "Cinema",
+    "definition": "A theater where movies are shown.",
+    "example": "They watched a movie at the cinema.",
+    "pronunciation": "ˈsɪn.ə.mə"
+  },
+  {
+    "word": "Theater",
+    "definition": "A building where plays are performed.",
+    "example": "They watched a play at the theater.",
+    "pronunciation": "ˈθiː.ə.tər"
+  },
+  {
+    "word": "Museum",
+    "definition": "A building where objects of historical, scientific, or artistic interest are kept.",
+    "example": "They visited the museum.",
+    "pronunciation": "mjuːˈziː.əm"
+  },
+  {
+    "word": "Garden",
+    "definition": "A piece of ground for growing flowers, fruit, or vegetables.",
+    "example": "She planted flowers in the garden.",
+    "pronunciation": "ˈɡɑːr.dən"
+  },
+  {
+    "word": "Restaurant",
+    "definition": "A place where people pay to sit and eat meals.",
+    "example": "They had dinner at a restaurant.",
+    "pronunciation": "ˈrɛs.tə.rɒnt"
+  },
+  {
+    "word": "Cafe",
+    "definition": "A small restaurant selling light meals and drinks.",
+    "example": "They had coffee at the cafe.",
+    "pronunciation": "ˈkæf.eɪ"
+  },
+  {
+    "word": "Bar",
+    "definition": "A place where alcoholic drinks are served.",
+    "example": "They went to the bar for a drink.",
+    "pronunciation": "bɑːr"
+  },
+  {
+    "word": "Supermarket",
+    "definition": "A large self-service store selling food and household goods.",
+    "example": "She bought groceries at the supermarket.",
+    "pronunciation": "ˈsuː.pərˌmɑːrkɪt"
+  },
+  {
+    "word": "Market",
+    "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+    "example": "They went to the market to buy fruits.",
+    "pronunciation": "ˈmɑːr.kɪt"
+  },
+  {
+    "word": "Post Office",
+    "definition": "A place where mail is received, sorted, and sent.",
+    "example": "She mailed the letter at the post office.",
+    "pronunciation": "poʊst ˈɔː.fɪs"
+  },
+  {
+    "word": "Airport",
+    "definition": "A place where aircraft regularly land and take off.",
+    "example": "They arrived at the airport.",
+    "pronunciation": "ˈɛər.pɔːrt"
+  },
+  {
+    "word": "Train Station",
+    "definition": "A place where trains stop to pick up and drop off passengers.",
+    "example": "They took the train from the station.",
+    "pronunciation": "treɪn ˈsteɪ.ʃən"
+  },
+  {
+    "word": "Bus Station",
+    "definition": "A place where buses stop to pick up and drop off passengers.",
+    "example": "They waited for the bus at the station.",
+    "pronunciation": "bʌs ˈsteɪ.ʃən"
+  },
+  {
+    "word": "Taxi",
+    "definition": "A car that carries passengers for a fare.",
+    "example": "They took a taxi to the airport.",
+    "pronunciation": "ˈtæk.si"
+  },
+  {
+    "word": "Car",
+    "definition": "A vehicle with four wheels.",
+    "example": "She drives a red car.",
+    "pronunciation": "kɑːr"
+  },
+  {
+    "word": "Bicycle",
+    "definition": "A vehicle with two wheels.",
+    "example": "He rides a bicycle to work.",
+    "pronunciation": "ˈbaɪ.sɪ.kəl"
+  },
+  {
+    "word": "Motorcycle",
+    "definition": "A two-wheeled vehicle that is powered by a motor.",
+    "example": "He rides a motorcycle to work.",
+    "pronunciation": "ˈmoʊ.tərˌsaɪ.kəl"
+  },
+  {
+    "word": "Cat",
+    "definition": "A small domesticated carnivorous mammal.",
+    "example": "The cat is sleeping on the couch.",
+    "pronunciation": "kæt"
+  },
+  {
+    "word": "Bread",
+    "definition": "A staple food made from flour, water, and yeast.",
+    "example": "She bought a loaf of bread from the bakery.",
+    "pronunciation": "brɛd"
+  },
+  {
+    "word": "Music",
+    "definition": "Vocal or instrumental sounds combined to produce beauty of form.",
+    "example": "He listens to music while working.",
+    "pronunciation": "ˈmjuː.zɪk"
+  },
+  {
+    "word": "Flower",
+    "definition": "The seed-bearing part of a plant.",
+    "example": "She picked a flower from the garden.",
+    "pronunciation": "ˈflaʊ.ər"
+  },
+  {
+    "word": "Friend",
+    "definition": "A person whom one knows and with whom one has a bond of mutual affection.",
+    "example": "He is my best friend.",
+    "pronunciation": "frɛnd"
+  },
+  {
+    "word": "Television",
+    "definition": "A system for transmitting visual images and sound that are reproduced on screens.",
+    "example": "We watch the news on television.",
+    "pronunciation": "ˈtɛl.ɪ.vɪʒ.ən"
+  },
+  {
+    "word": "Internet",
+    "definition": "A global computer network providing a variety of information and communication facilities.",
+    "example": "I use the internet to research information.",
+    "pronunciation": "ˈɪn.tə.net"
+  },
+  {
+    "word": "Pencil",
+    "definition": "An instrument for writing or drawing, consisting of a thin stick of graphite enclosed in wood.",
+    "example": "She sharpened her pencil before the exam.",
+    "pronunciation": "ˈpɛn.səl"
+  },
+  {
+    "word": "Paper",
+    "definition": "A material manufactured in thin sheets from the pulp of wood or other fibrous substances.",
+    "example": "He wrote his essay on a piece of paper.",
+    "pronunciation": "ˈpeɪ.pər"
+  },
+  {
+    "word": "Camera",
+    "definition": "A device for recording visual images in the form of photographs or video.",
+    "example": "She took a picture with her camera.",
+    "pronunciation": "ˈkæm.rə"
+  },
+  {
+    "word": "Shoes",
+    "definition": "A covering for the foot, typically made of leather, having a sturdy sole and not reaching above the ankle.",
+    "example": "He bought a new pair of shoes.",
+    "pronunciation": "ʃuːz"
+  },
+  {
+    "word": "Hat",
+    "definition": "A shaped covering for the head worn for warmth, as a fashion item, or as part of a uniform.",
+    "example": "She wore a hat to protect herself from the sun.",
+    "pronunciation": "hæt"
+  },
+  {
+    "word": "Glasses",
+    "definition": "A pair of lenses set in a frame resting on the nose and ears, used to correct or assist defective eyesight.",
+    "example": "He needs glasses to read.",
+    "pronunciation": "ˈɡlɑː.sɪz"
+  },
+  {
+    "word": "Bag",
+    "definition": "A flexible container with an opening at the top, used for carrying things.",
+    "example": "She packed her bag for the trip.",
+    "pronunciation": "bæɡ"
+  },
+  {
+    "word": "Key",
+    "definition": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock.",
+    "example": "He lost his house key.",
+    "pronunciation": "kiː"
+  },
+  {
+    "word": "Door",
+    "definition": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.",
+    "example": "Please close the door behind you.",
+    "pronunciation": "dɔːr"
+  },
+  {
+    "word": "Window",
+    "definition": "An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material.",
+    "example": "She opened the window to let in some fresh air.",
+    "pronunciation": "ˈwɪn.doʊ"
+  },
+  {
+    "word": "Mirror",
+    "definition": "A reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.",
+    "example": "He looked at himself in the mirror.",
+    "pronunciation": "ˈmɪr.ər"
+  },
+  {
+    "word": "Lamp",
+    "definition": "A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover.",
+    "example": "She turned on the lamp to read her book.",
+    "pronunciation": "læmp"
+  },
+  {
+    "word": "Bed",
+    "definition": "A piece of furniture for sleep or rest, typically a framework with a mattress.",
+    "example": "He went to bed early last night.",
+    "pronunciation": "bɛd"
+  },
+  {
+    "word": "Blanket",
+    "definition": "A large piece of woolen or similar material used as a bed covering or other covering for warmth.",
+    "example": "She wrapped herself in a blanket to keep warm.",
+    "pronunciation": "ˈblæŋ.kɪt"
+  },
+  {
+    "word": "Pillow",
+    "definition": "A rectangular cloth bag stuffed with feathers, foam rubber, or other soft materials, used to support the head when lying down.",
+    "example": "He rested his head on the pillow.",
+    "pronunciation": "ˈpɪl.oʊ"
+  },
+  {
+    "word": "Cup",
+    "definition": "A small bowl-shaped container for drinking from, typically having a handle.",
+    "example": "She poured tea into the cup.",
+    "pronunciation": "kʌp"
+  },
+  {
+    "word": "Plate",
+    "definition": "A flat dish, typically circular and made of china, from which food is eaten or served.",
+    "example": "He placed the food on the plate.",
+    "pronunciation": "pleɪt"
+  },
+  {
+    "word": "Fork",
+    "definition": "An implement with two or more prongs used for lifting food to the mouth or holding it when cutting.",
+    "example": "She used a fork to eat her salad.",
+    "pronunciation": "fɔːrk"
+  },
+  {
+    "word": "Knife",
+    "definition": "An instrument composed of a blade fixed into a handle, used for cutting or as a weapon.",
+    "example": "He used a knife to cut the bread.",
+    "pronunciation": "naɪf"
+  },
+  {
+    "word": "Spoon",
+    "definition": "An implement consisting of a small, shallow oval or round bowl on a long handle, used for eating, stirring, and serving food.",
+    "example": "She stirred her coffee with a spoon.",
+    "pronunciation": "spuːn"
+  },
+  {
+    "word": "Bottle",
+    "definition": "A container with a narrow neck, used for storing liquids.",
+    "example": "He drank water from a bottle.",
+    "pronunciation": "ˈbɒt.l̩"
+  },
+  {
+    "word": "Glass",
+    "definition": "A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda and lime.",
+    "example": "She filled the glass with juice.",
+    "pronunciation": "ɡlɑːs"
+  },
+  {
+    "word": "Box",
+    "definition": "A container with a flat base and sides, typically square or rectangular and having a lid.",
+    "example": "He packed his books into a box.",
+    "pronunciation": "bɒks"
+  },
+  {
+    "word": "Baggage",
+    "definition": "Luggage; suitcases and bags containing personal belongings packed for traveling.",
+    "example": "She checked her baggage at the airport.",
+    "pronunciation": "ˈbæɡ.ɪdʒ"
+  },
+  {
+    "word": "Ticket",
+    "definition": "A piece of paper or card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event.",
+    "example": "He bought a ticket for the concert.",
+    "pronunciation": "ˈtɪk.ɪt"
+  },
+  {
+    "word": "Passport",
+    "definition": "An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+    "example": "She renewed her passport before the trip.",
+    "pronunciation": "ˈpɑːs.pɔːt"
+  },
+  {
+    "word": "Wallet",
+    "definition": "A pocket-sized flat folding case for holding money and plastic cards.",
+    "example": "He lost his wallet at the park.",
+    "pronunciation": "ˈwɒl.ɪt"
+  },
+  {
+    "word": "Money",
+    "definition": "A current medium of exchange in the form of coins and banknotes.",
+    "example": "She saved enough money to buy a car.",
+    "pronunciation": "ˈmʌn.i"
+  },
+  {
+    "word": "Credit Card",
+    "definition": "A small plastic card issued by a bank, business, etc., allowing the holder to purchase goods or services on credit.",
+    "example": "He paid for the meal with his credit card.",
+    "pronunciation": "ˈkrɛd.ɪt kɑːrd"
+  },
+  {
+    "word": "Bank",
+    "definition": "An establishment for the custody, loan, exchange, or issue of money, for the extension of credit, and for facilitating the transmission of funds.",
+    "example": "She deposited her paycheck at the bank.",
+    "pronunciation": "bæŋk"
+  },
+  {
+    "word": "ATM",
+    "definition": "An automated teller machine, a computerized telecommunications device that enables the clients of a financial institution to perform financial transactions.",
+    "example": "He withdrew cash from the ATM.",
+    "pronunciation": "ˌeɪ.tiːˈem"
+  },
+  {
+    "word": "Check",
+    "definition": "A written order to a bank to pay a stated sum from the drawer's account.",
+    "example": "She wrote a check to pay the bill.",
+    "pronunciation": "tʃɛk"
+  },
+  {
+    "word": "Receipt",
+    "definition": "A piece of paper acknowledging that something has been received.",
+    "example": "He kept the receipt as proof of purchase.",
+    "pronunciation": "rɪˈsiːt"
+  },
+  {
+    "word": "Bill",
+    "definition": "A statement of money owed for goods or services.",
+    "example": "She paid the electricity bill.",
+    "pronunciation": "bɪl"
+  },
+  {
+    "word": "Tax",
+    "definition": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits.",
+    "example": "He filed his tax return last week.",
+    "pronunciation": "tæks"
+  },
+  {
+    "word": "Salary",
+    "definition": "A fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee.",
+    "example": "She received her salary at the end of the month.",
+    "pronunciation": "ˈsæl.ər.i"
+  },
+  {
+    "word": "Job",
+    "definition": "A paid position of regular employment.",
+    "example": "He applied for a job at the new company.",
+    "pronunciation": "dʒɒb"
+  },
+  {
+    "word": "Work",
+    "definition": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+    "example": "She has a lot of work to do before the deadline.",
+    "pronunciation": "wɜːrk"
+  },
+  {
+    "word": "Office",
+    "definition": "A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
+    "example": "He works in an office downtown.",
+    "pronunciation": "ˈɒf.ɪs"
+  },
+  {
+    "word": "Meeting",
+    "definition": "An assembly of people for a particular purpose, especially for formal discussion.",
+    "example": "She attended a meeting with her colleagues.",
+    "pronunciation": "ˈmiː.tɪŋ"
+  },
+  {
+    "word": "Presentation",
+    "definition": "A speech or talk in which a new product, idea, or piece of work is shown and explained to an audience.",
+    "example": "He gave a presentation on the new project.",
+    "pronunciation": "ˌprɛz.ənˈteɪ.ʃən"
+  },
+  {
+    "word": "Project",
+    "definition": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+    "example": "She is working on a new project at work.",
+    "pronunciation": "ˈprɒdʒ.ɛkt"
+  },
+  {
+    "word": "Deadline",
+    "definition": "The latest time or date by which something should be completed.",
+    "example": "He finished the report just before the deadline.",
+    "pronunciation": "ˈdɛd.laɪn"
+  },
+  {
+    "word": "Schedule",
+    "definition": "A plan for carrying out a process or procedure, giving lists of intended events and times.",
+    "example": "She checked her schedule for the day.",
+    "pronunciation": "ˈʃɛd.juːl"
+  },
+  {
+    "word": "Appointment",
+    "definition": "An arrangement to meet someone at a particular time and place.",
+    "example": "He has an appointment with the doctor.",
+    "pronunciation": "əˈpɔɪnt.mənt"
+  },
+  {
+    "word": "Vacation",
+    "definition": "A period of suspension of work, study, or other activity, usually used for rest, recreation, or travel.",
+    "example": "They went on vacation to the beach.",
+    "pronunciation": "veɪˈkeɪ.ʃən"
+  },
+  {
+    "word": "Holiday",
+    "definition": "A day of festivity or recreation when no work is done.",
+    "example": "Christmas is a public holiday in many countries.",
+    "pronunciation": "ˈhɒl.ɪ.deɪ"
+  },
+  {
+    "word": "Party",
+    "definition": "A social gathering of invited guests, typically involving eating, drinking, and entertainment.",
+    "example": "She hosted a party for her birthday.",
+    "pronunciation": "ˈpɑː.ti"
+  },
+  {
+    "word": "Celebration",
+    "definition": "The action of marking one's pleasure at an important event or occasion by engaging in enjoyable, typically social, activity.",
+    "example": "They held a celebration for the company's anniversary.",
+    "pronunciation": "ˌsɛl.ɪˈbreɪ.ʃən"
+  },
+  {
+    "word": "Gift",
+    "definition": "A thing given willingly to someone without payment; a present.",
+    "example": "He received a gift for his birthday.",
+    "pronunciation": "ɡɪft"
+  },
+  {
+    "word": "Card",
+    "definition": "A piece of thick, stiff paper or thin pasteboard, in particular one used for writing or printing on.",
+    "example": "She sent a card to her friend.",
+    "pronunciation": "kɑːrd"
+  },
+  {
+    "word": "Invitation",
+    "definition": "A written or verbal request inviting someone to go somewhere or to do something.",
+    "example": "He received an invitation to the wedding.",
+    "pronunciation": "ˌɪn.vɪˈteɪ.ʃən"
+  },
+  {
+    "word": "Guest",
+    "definition": "A person who is invited to visit someone's home or attend a particular social occasion.",
+    "example": "They welcomed their guests at the door.",
+    "pronunciation": "ɡɛst"
+  },
+  {
+    "word": "Host",
+    "definition": "A person who receives or entertains other people as guests.",
+    "example": "She was the host of the party.",
+    "pronunciation": "hoʊst"
+  },
+  {
+    "word": "Dinner",
+    "definition": "The main meal of the day, taken either around midday or in the evening.",
+    "example": "They had dinner at a fancy restaurant.",
+    "pronunciation": "ˈdɪn.ər"
+  },
+  {
+    "word": "Lunch",
+    "definition": "A meal eaten in the middle of the day.",
+    "example": "He had lunch with his colleagues.",
+    "pronunciation": "lʌntʃ"
+  },
+  {
+    "word": "Breakfast",
+    "definition": "A meal eaten in the morning, the first of the day.",
+    "example": "She had toast and coffee for breakfast.",
+    "pronunciation": "ˈbrɛk.fəst"
+  },
+  {
+    "word": "Snack",
+    "definition": "A small amount of food eaten between meals.",
+    "example": "He grabbed a snack from the fridge.",
+    "pronunciation": "snæk"
+  },
+  {
+    "word": "Dessert",
+    "definition": "A sweet course eaten at the end of a meal.",
+    "example": "They had ice cream for dessert.",
+    "pronunciation": "dɪˈzɜːrt"
+  },
+  {
+    "word": "Cake",
+    "definition": "An item of soft sweet food made from a mixture of flour, fat, eggs, sugar, and other ingredients, baked and often decorated.",
+    "example": "She baked a cake for the party.",
+    "pronunciation": "keɪk"
+  },
+  {
+    "word": "Candy",
+    "definition": "A sweet food made with sugar or syrup combined with fruit, chocolate, or nuts.",
+    "example": "He bought some candy at the store.",
+    "pronunciation": "ˈkændi"
+  },
+  {
+    "word": "Chocolate",
+    "definition": "A food in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened and eaten as a snack.",
+    "example": "She loves to eat chocolate.",
+    "pronunciation": "ˈtʃɒk.lət"
+  },
+  {
+    "word": "Ice Cream",
+    "definition": "A soft frozen food made with sweetened and flavored milk fat.",
+    "example": "They had ice cream for dessert.",
+    "pronunciation": "ˈaɪs kriːm"
+  },
+  {
+    "word": "Juice",
+    "definition": "The liquid obtained from or present in fruit or vegetables.",
+    "example": "She poured herself a glass of orange juice.",
+    "pronunciation": "dʒuːs"
+  },
+  {
+    "word": "Coffee",
+    "definition": "A hot drink made from the roasted and ground seeds of a tropical shrub.",
+    "example": "He drinks coffee every morning.",
+    "pronunciation": "ˈkɒf.i"
+  },
+  {
+    "word": "Tea",
+    "definition": "A hot drink made by infusing the dried, crushed leaves of the tea plant in boiling water.",
+    "example": "She drinks tea with honey.",
+    "pronunciation": "tiː"
+  },
+  {
+    "word": "Water",
+    "definition": "A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+    "example": "She drinks water throughout the day.",
+    "pronunciation": "ˈwɔː.tər"
+  }
+]
